@@ -25,7 +25,7 @@ typedef enum{
 /**
  * @brief Definition of the default SNTP Server host.
  */
-#define SNTP_DEFAULT_ADDR "129.6.15.28"
+#define SNTP_DEFAULT_ADDR "192.168.0.195"
 
 #define NTP_PACKET_SIZE                                                        \
   UINT8_C(48)
