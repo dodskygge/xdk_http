@@ -1,4 +1,4 @@
-C:/Users/Oskar/XDK-Workspace/HttpClientXDK/debug/objects/source/Connectivity/HTTPRestClientSecurity.o: \
+C:/Users/Oskar/XDK-Workspace/xdk_http/debug/objects/source/Connectivity/HTTPRestClientSecurity.o: \
  source/Connectivity/HTTPRestClientSecurity.c \
  ../Common/include/XdkCommonInfo.h \
  ../Platform/Essentials/include/BCDS_Retcode.h \
@@ -57,7 +57,7 @@ C:/Users/Oskar/XDK-Workspace/HttpClientXDK/debug/objects/source/Connectivity/HTT
  ../Libraries/ServalStack/3rd-party/ServalStack/api/Serval_Policy.h \
  ../Libraries/ServalStack/3rd-party/ServalStack/api/Serval_Msg_Obsolete.h \
  ../Libraries/ServalStack/3rd-party/ServalStack/pal/Serval_MsgSendingCtx.h \
- ../Common/certs/Postman/ServerCA.h \
+ ../Common/certs/Custom/ServerCA.h \
  ../Libraries/MbedTLS/3rd-party/mbedtls/include/mbedtls/x509.h \
  ../Common/config/MbedTLS/MbedtlsConfig.h \
  ../Common/config/MbedTLS/MbedtlsConfigTLS.h \
@@ -184,7 +184,7 @@ source/Connectivity/HTTPRestClientSecurity.h:
 
 ../Libraries/ServalStack/3rd-party/ServalStack/pal/Serval_MsgSendingCtx.h:
 
-../Common/certs/Postman/ServerCA.h:
+../Common/certs/Custom/ServerCA.h:
 
 ../Libraries/MbedTLS/3rd-party/mbedtls/include/mbedtls/x509.h:
 

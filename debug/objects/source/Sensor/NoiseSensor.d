@@ -1,4 +1,4 @@
-C:/Users/Oskar/XDK-Workspace/HttpClientXDK/debug/objects/source/Sensor/NoiseSensor.o: \
+C:/Users/Oskar/XDK-Workspace/xdk_http/debug/objects/source/Sensor/NoiseSensor.o: \
  source/Sensor/NoiseSensor.c ../Common/include/XdkCommonInfo.h \
  ../Platform/Essentials/include/BCDS_Retcode.h \
  ../Platform/Essentials/include/BCDS_Basics.h \

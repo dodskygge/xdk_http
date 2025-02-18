@@ -1,4 +1,4 @@
-C:/Users/Oskar/XDK-Workspace/HttpClientXDK/debug/objects/source/Adc/Mcu_Adc.o: \
+C:/Users/Oskar/XDK-Workspace/xdk_http/debug/objects/source/Adc/Mcu_Adc.o: \
  source/Adc/Mcu_Adc.c source/Adc/Mcu_Adc_Handle.h source/Adc/Mcu_Adc.h \
  ../Platform/Essentials/include/BCDS_HAL.h \
  ../Platform/Essentials/include/BCDS_Basics.h \

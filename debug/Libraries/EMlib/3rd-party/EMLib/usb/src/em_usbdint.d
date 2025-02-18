@@ -1,4 +1,4 @@
-C:/Users/Oskar/XDK-Workspace/HttpClientXDK/debug/objects/./../Libraries/EMlib/3rd-party/EMLib/usb/src/em_usbdint.o: \
+C:/Users/Oskar/XDK-Workspace/xdk_http/debug/objects/./../Libraries/EMlib/3rd-party/EMLib/usb/src/em_usbdint.o: \
  ../Libraries/EMlib/3rd-party/EMLib/usb/src/em_usbdint.c \
  ../Libraries/EMlib/3rd-party/EMLib/Device/SiliconLabs/EFM32GG/Include/em_device.h \
  ../Libraries/EMlib/3rd-party/EMLib/Device/SiliconLabs/EFM32GG/Include/efm32gg390f1024.h \

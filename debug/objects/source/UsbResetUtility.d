@@ -1,4 +1,4 @@
-C:/Users/Oskar/XDK-Workspace/HttpClientXDK/debug/objects/source/UsbResetUtility.o: \
+C:/Users/Oskar/XDK-Workspace/xdk_http/debug/objects/source/UsbResetUtility.o: \
  source/UsbResetUtility.c \
  ../Libraries/EMlib/3rd-party/EMLib/Device/SiliconLabs/EFM32GG/Include/em_device.h \
  ../Libraries/EMlib/3rd-party/EMLib/Device/SiliconLabs/EFM32GG/Include/efm32gg390f1024.h \

@@ -1,4 +1,4 @@
-C:/Users/Oskar/XDK-Workspace/HttpClientXDK/debug/objects/source/Utility/Storage.o: \
+C:/Users/Oskar/XDK-Workspace/xdk_http/debug/objects/source/Utility/Storage.o: \
  source/Utility/Storage.c ../Common/include/XdkCommonInfo.h \
  ../Platform/Essentials/include/BCDS_Retcode.h \
  ../Platform/Essentials/include/BCDS_Basics.h \

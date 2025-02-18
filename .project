@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>HttpClientXDK</name>
+	<name>iot2tangle</name>
 	<comment></comment>
 	<projects>
 	</projects>
@@ -40,7 +40,7 @@
 		<link>
 			<name>SDK</name>
 			<type>2</type>
-			<location>M:/BoschXDK/XDK/SDK</location>
+			<locationURI>ECLIPSE_HOME../SDK</locationURI>
 		</link>
 	</linkedResources>
 </projectDescription>

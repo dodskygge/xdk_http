@@ -1,4 +1,4 @@
-C:/Users/Oskar/XDK-Workspace/HttpClientXDK/debug/objects/source/Connectivity/WLANHostPgm.o: \
+C:/Users/Oskar/XDK-Workspace/xdk_http/debug/objects/source/Connectivity/WLANHostPgm.o: \
  source/Connectivity/WLANHostPgm.c ../Common/include/XdkCommonInfo.h \
  ../Platform/Essentials/include/BCDS_Retcode.h \
  ../Platform/Essentials/include/BCDS_Basics.h \

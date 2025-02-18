@@ -1,6 +1,6 @@
-C:/Users/Oskar/XDK-Workspace/HttpClientXDK/debug/objects/Main.o: \
- C:/Users/Oskar/XDK-Workspace/HttpClientXDK/source/Main.c \
- C:/Users/Oskar/XDK-Workspace/HttpClientXDK/source/XdkAppInfo.h \
+C:/Users/Oskar/XDK-Workspace/xdk_http/debug/objects/Main.o: \
+ C:/Users/Oskar/XDK-Workspace/xdk_http/source/Main.c \
+ C:/Users/Oskar/XDK-Workspace/xdk_http/source/sensors/protected/XDKAppInfo.h \
  ../Common/include/XdkCommonInfo.h \
  ../Platform/Essentials/include/BCDS_Retcode.h \
  ../Platform/Essentials/include/BCDS_Basics.h \
@@ -8,8 +8,7 @@ C:/Users/Oskar/XDK-Workspace/HttpClientXDK/debug/objects/Main.o: \
  ../Common/include/XdkSystemStartup.h \
  ../Platform/Essentials/include/BCDS_Assert.h \
  ../Platform/Essentials/include/BCDS_Retcode.h \
- C:/Users/Oskar/XDK-Workspace/HttpClientXDK/source/AppController.h \
- ../Common/include/Utility/XDK_Utils.h \
+ C:/Users/Oskar/XDK-Workspace/xdk_http/source/iot2tangle.h \
  ../Platform/Utils/include/BCDS_CmdProcessor.h \
  ../Platform/Utils/include/BCDS_Utils.h \
  ../Common/config/Utils/BCDS_UtilsConfig.h \
@@ -24,7 +23,7 @@ C:/Users/Oskar/XDK-Workspace/HttpClientXDK/debug/objects/Main.o: \
  ../Libraries/FreeRTOS/3rd-party/include/task.h \
  ../Libraries/FreeRTOS/3rd-party/include/private/list.h
 
-C:/Users/Oskar/XDK-Workspace/HttpClientXDK/source/XdkAppInfo.h:
+C:/Users/Oskar/XDK-Workspace/xdk_http/source/sensors/protected/XDKAppInfo.h:
 
 ../Common/include/XdkCommonInfo.h:
 
@@ -40,9 +39,7 @@ C:/Users/Oskar/XDK-Workspace/HttpClientXDK/source/XdkAppInfo.h:
 
 ../Platform/Essentials/include/BCDS_Retcode.h:
 
-C:/Users/Oskar/XDK-Workspace/HttpClientXDK/source/AppController.h:
-
-../Common/include/Utility/XDK_Utils.h:
+C:/Users/Oskar/XDK-Workspace/xdk_http/source/iot2tangle.h:
 
 ../Platform/Utils/include/BCDS_CmdProcessor.h:
 

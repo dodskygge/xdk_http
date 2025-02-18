@@ -1,4 +1,4 @@
-C:/Users/Oskar/XDK-Workspace/HttpClientXDK/debug/objects/source/Private/ServalStack/src/TLS_MbedTLS/MbedTLS_TlsAdapter.o: \
+C:/Users/Oskar/XDK-Workspace/xdk_http/debug/objects/source/Private/ServalStack/src/TLS_MbedTLS/MbedTLS_TlsAdapter.o: \
  source/Private/ServalStack/src/TLS_MbedTLS/MbedTLS_TlsAdapter.c \
  ../Libraries/ServalStack/3rd-party/ServalStack/api/Serval_Defines.h \
  source/Private/ServalStack/src/TLS_MbedTLS/MbedTLS_Tls.h \
@@ -83,7 +83,7 @@ C:/Users/Oskar/XDK-Workspace/HttpClientXDK/debug/objects/source/Private/ServalSt
  ../Libraries/MbedTLS/3rd-party/mbedtls/include/mbedtls/debug.h \
  ../Libraries/MbedTLS/3rd-party/mbedtls/include/mbedtls/net_sockets.h \
  ../Libraries/MbedTLS/3rd-party/mbedtls/include/mbedtls/platform.h \
- ../Common/certs/Postman/ServerCA.h
+ ../Common/certs/Custom/ServerCA.h
 
 ../Libraries/ServalStack/3rd-party/ServalStack/api/Serval_Defines.h:
 
@@ -251,4 +251,4 @@ source/Private/ServalStack/src/TLS_MbedTLS/MbedTLS_Tls.h:
 
 ../Libraries/MbedTLS/3rd-party/mbedtls/include/mbedtls/platform.h:
 
-../Common/certs/Postman/ServerCA.h:
+../Common/certs/Custom/ServerCA.h:

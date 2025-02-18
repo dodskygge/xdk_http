@@ -1,4 +1,4 @@
-C:/Users/Oskar/XDK-Workspace/HttpClientXDK/debug/objects/source/Connectivity/BLE/GridEyeService.o: \
+C:/Users/Oskar/XDK-Workspace/xdk_http/debug/objects/source/Connectivity/BLE/GridEyeService.o: \
  source/Connectivity/BLE/GridEyeService.c \
  ../Common/include/XdkCommonInfo.h \
  ../Platform/Essentials/include/BCDS_Retcode.h \

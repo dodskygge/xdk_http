@@ -1,4 +1,4 @@
-C:/Users/Oskar/XDK-Workspace/HttpClientXDK/debug/objects/source/Assert.o: \
+C:/Users/Oskar/XDK-Workspace/xdk_http/debug/objects/source/Assert.o: \
  source/Assert.c ../Platform/Essentials/include/BCDS_Essentials.h \
  ../Platform/Essentials/include/BCDS_HAL.h \
  ../Platform/Essentials/include/BCDS_Basics.h \

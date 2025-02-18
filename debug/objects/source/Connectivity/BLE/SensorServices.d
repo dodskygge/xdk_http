@@ -1,4 +1,4 @@
-C:/Users/Oskar/XDK-Workspace/HttpClientXDK/debug/objects/source/Connectivity/BLE/SensorServices.o: \
+C:/Users/Oskar/XDK-Workspace/xdk_http/debug/objects/source/Connectivity/BLE/SensorServices.o: \
  source/Connectivity/BLE/SensorServices.c \
  ../Common/include/XdkCommonInfo.h \
  ../Platform/Essentials/include/BCDS_Retcode.h \

@@ -1,4 +1,4 @@
-C:/Users/Oskar/XDK-Workspace/HttpClientXDK/debug/objects/source/Utility/CayenneLPPSerializer.o: \
+C:/Users/Oskar/XDK-Workspace/xdk_http/debug/objects/source/Utility/CayenneLPPSerializer.o: \
  source/Utility/CayenneLPPSerializer.c ../Common/include/XdkCommonInfo.h \
  ../Platform/Essentials/include/BCDS_Retcode.h \
  ../Platform/Essentials/include/BCDS_Basics.h \
