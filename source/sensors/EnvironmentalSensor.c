@@ -25,6 +25,7 @@
 #define TIMERBLOCKTIME  UINT32_C(0xffff)    /** Macro used to define blocktime of a timer*/
 #define TIMER_NOT_ENOUGH_MEMORY            (-1L)/**<Macro to define not enough memory error in timer*/
 #define TIMER_AUTORELOAD_ON             UINT32_C(1)             /**< Auto reload of timer is enabled*/
+#define TEMP_CORRECTION	2.5
 
 
 char * processEnvSensorData(void * param1, uint32_t param2)
@@ -42,8 +43,8 @@ char * processEnvSensorData(void * param1, uint32_t param2)
     if ( RETCODE_OK == returnValue)
     {
 
-       sprintf(buffer,"{\"sensor\": \"Environmental\",\"data\":[{\"Pressure\":\"%ld\"},{\"Temp\":\"%ld\"},{\"Humidity\":\"%ld\"}]}",
-        		(long int) bme280.pressure, (long int) bme280.temperature, (long int) bme280.humidity);
+        sprintf(buffer, "{\"sensor\": \"Environmental\",\"data\":[{\"Pressure\":\"%.2f\"},{\"Temp\":\"%.2f\"},{\"Humidity\":\"%ld\"}]}",
+                (float)bme280.pressure / 1000.0, ((float)bme280.temperature / 1000.0) - TEMP_CORRECTION , (long int)bme280.humidity);
 
     }
     else

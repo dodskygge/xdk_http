@@ -257,7 +257,7 @@ static char* receiveBufferFromSensors(void){
     char *aux;
 
 
-	strcat(buffer,"{\"iot2tangle\":[");
+	strcat(buffer,"{\"sensordata\":[");
 
 	for(i=0;i<MAX_SENSORS_ARRAY;i++){
 

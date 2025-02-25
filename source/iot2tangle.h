@@ -35,7 +35,7 @@ typedef enum{
 /**
  * XDK Device ID/Name.
  */
-#define DEVICE_NAME			"XDK-001"
+#define DEVICE_NAME			"XDK110-001"
 
 /**
  * WLAN_CONNECT_WPA_SSID is the SSID of the WIFI network you want to connect to.
@@ -86,19 +86,19 @@ typedef enum{
  * POST_REQUEST_CUSTOM_HEADER_0 is a custom header which is sent along with the
  * POST request. It's meant to demonstrate how to use custom header.
  */
-#define POST_REQUEST_CUSTOM_HEADER_0    "X-AuthToken: IOT2TANGLE\r\n"
+#define POST_REQUEST_CUSTOM_HEADER_0    "X-AuthToken: XDK110\r\n"
 
 /**
  * POST_REQUEST_CUSTOM_HEADER_1 is a custom header which is sent along with the
  * POST request. It's meant to demonstrate how to use custom header.
  */
-#define POST_REQUEST_CUSTOM_HEADER_1    "X-Foobar: IOT2TANGLE\r\n"
+#define POST_REQUEST_CUSTOM_HEADER_1    "X-Foobar: XDK110\r\n"
 
 
 /**
  * The time we wait (in milliseconds) between sending HTTP requests.
  */
-#define INTER_REQUEST_INTERVAL          UINT32_C(30000)
+#define INTER_REQUEST_INTERVAL          UINT32_C(5000)
 
 
 /**
