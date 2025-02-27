@@ -4,7 +4,7 @@
 #define BCDS_MODULE_ID XDK_APP_MODULE_ID_HTTP_IOT2TANGLE_CLIENT
 
 /* own header files */
-#include "iot2tangle.h"
+#include "http_controller.h"
 
 /* system header files */
 #include <stdio.h>

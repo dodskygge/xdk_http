@@ -8,7 +8,7 @@ C:/Users/Oskar/XDK-Workspace/xdk_http/debug/objects/Main.o: \
  ../Common/include/XdkSystemStartup.h \
  ../Platform/Essentials/include/BCDS_Assert.h \
  ../Platform/Essentials/include/BCDS_Retcode.h \
- C:/Users/Oskar/XDK-Workspace/xdk_http/source/iot2tangle.h \
+ C:/Users/Oskar/XDK-Workspace/xdk_http/source/http_controller.h \
  ../Platform/Utils/include/BCDS_CmdProcessor.h \
  ../Platform/Utils/include/BCDS_Utils.h \
  ../Common/config/Utils/BCDS_UtilsConfig.h \
@@ -39,7 +39,7 @@ C:/Users/Oskar/XDK-Workspace/xdk_http/source/sensors/protected/XDKAppInfo.h:
 
 ../Platform/Essentials/include/BCDS_Retcode.h:
 
-C:/Users/Oskar/XDK-Workspace/xdk_http/source/iot2tangle.h:
+C:/Users/Oskar/XDK-Workspace/xdk_http/source/http_controller.h:
 
 ../Platform/Utils/include/BCDS_CmdProcessor.h:
 

@@ -1,10 +1,10 @@
-C:/Users/Oskar/XDK-Workspace/xdk_http/debug/objects/iot2tangle.o: \
- C:/Users/Oskar/XDK-Workspace/xdk_http/source/iot2tangle.c \
+C:/Users/Oskar/XDK-Workspace/xdk_http/debug/objects/http_controller.o: \
+ C:/Users/Oskar/XDK-Workspace/xdk_http/source/http_controller.c \
  C:/Users/Oskar/XDK-Workspace/xdk_http/source/sensors/protected/XDKAppInfo.h \
  ../Common/include/XdkCommonInfo.h \
  ../Platform/Essentials/include/BCDS_Retcode.h \
  ../Platform/Essentials/include/BCDS_Basics.h \
- C:/Users/Oskar/XDK-Workspace/xdk_http/source/iot2tangle.h \
+ C:/Users/Oskar/XDK-Workspace/xdk_http/source/http_controller.h \
  ../Platform/Essentials/include/BCDS_Basics.h \
  ../Platform/Utils/include/BCDS_CmdProcessor.h \
  ../Platform/Utils/include/BCDS_Utils.h \
@@ -87,7 +87,7 @@ C:/Users/Oskar/XDK-Workspace/xdk_http/source/sensors/protected/XDKAppInfo.h:
 
 ../Platform/Essentials/include/BCDS_Basics.h:
 
-C:/Users/Oskar/XDK-Workspace/xdk_http/source/iot2tangle.h:
+C:/Users/Oskar/XDK-Workspace/xdk_http/source/http_controller.h:
 
 ../Platform/Essentials/include/BCDS_Basics.h:
 
