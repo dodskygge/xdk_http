@@ -27,8 +27,7 @@ typedef enum{
  */
 #define SNTP_DEFAULT_ADDR "192.168.0.195"
 
-#define NTP_PACKET_SIZE                                                        \
-  UINT8_C(48)
+#define NTP_PACKET_SIZE UINT8_C(48)
 #define NTP_DNS_TIMEOUT_IN_S UINT16_C(5)
 #define NTP_DNS_RETRY_INTERVAL_IN_MS UINT16_C(100)
 
@@ -79,8 +78,10 @@ typedef enum{
  * the HTTP POST request to.
  *
  * Change this value if you use your own web server.
+ *
+ * ####################### Sensor data will be send to this URL ########################
  */
-#define DEST_POST_PATH                  "/sensor_data"
+#define DEST_POST_PATH                  "/sensor_data_1"
 
 /**
  * POST_REQUEST_CUSTOM_HEADER_0 is a custom header which is sent along with the

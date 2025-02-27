@@ -46,6 +46,8 @@ char * processEnvSensorData(void * param1, uint32_t param2)
         sprintf(buffer, "{\"sensor\": \"Environmental\",\"data\":[{\"Pressure\":\"%.2f\"},{\"Temp\":\"%.2f\"},{\"Humidity\":\"%ld\"}]}",
                 (float)bme280.pressure / 1000.0, ((float)bme280.temperature / 1000.0) - TEMP_CORRECTION , (long int)bme280.humidity);
 
+       // Pressure and temperature are converted to kPa and Celsius
+
     }
     else
     {
