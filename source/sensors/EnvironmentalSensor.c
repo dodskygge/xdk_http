@@ -25,7 +25,9 @@
 #define TIMERBLOCKTIME  UINT32_C(0xffff)    /** Macro used to define blocktime of a timer*/
 #define TIMER_NOT_ENOUGH_MEMORY            (-1L)/**<Macro to define not enough memory error in timer*/
 #define TIMER_AUTORELOAD_ON             UINT32_C(1)             /**< Auto reload of timer is enabled*/
-#define TEMP_CORRECTION	2.5
+#define TEMP_CORRECTION	5
+// 3.8 - default correction without usb power
+// 5 - default with usb power
 
 
 char * processEnvSensorData(void * param1, uint32_t param2)

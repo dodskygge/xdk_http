@@ -39,11 +39,11 @@ typedef enum{
 /**
  * WLAN_CONNECT_WPA_SSID is the SSID of the WIFI network you want to connect to.
  */
-#define WLAN_SSID                        "WLAN_SSID"
+#define WLAN_SSID                        "ssid"
 /**
  * WLAN_CONNECT_WPA_PASS is the WPA/WPA2 passphrase (pre-shared key) of your WIFI network.
  */
-#define WLAN_PSK                         "WLAN_PSK"
+#define WLAN_PSK                         "psk"
 
 /**
  * DEST_SERVER_HOST is the host name of the web server we will send HTTP requests to.
@@ -99,7 +99,7 @@ typedef enum{
 /**
  * The time we wait (in milliseconds) between sending HTTP requests.
  */
-#define INTER_REQUEST_INTERVAL          UINT32_C(5000)
+#define INTER_REQUEST_INTERVAL          UINT32_C(2000)
 
 
 /**
